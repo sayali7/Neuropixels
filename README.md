@@ -5,7 +5,7 @@ Some files from the original npyx (NeuroPyxels) library [[1]](#1) have been modi
 ## Tutorial to load, plot, and get raw traces from Neuropixels recordings: 
 Load_Neuropixels_data_with_Neuropyxels.ipynb
 
-### Folder structure for dp:
+### Folder structure to specify path to load data from ('dp' in notebook) :
 - Kilosort output files from "imec_pec" (extracted, not .zip)
 - \*.imec0.bin file (already present in imec_specs for all 4 sessions). To load one session, replace this with the recordings from individual sessions, e.g.:"Kavorka_190620/26525_kavorka_190620_1835_intermediate_s1_light/recording/*.bin"
 - \*.imec0.meta file (needs to be copied from one of the sessions), for e.g.: "Kavorka_190620/26525_kavorka_190620_1835_intermediate_s1_light/recording/*.meta" 
