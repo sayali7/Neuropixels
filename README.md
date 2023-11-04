@@ -5,4 +5,4 @@ Some files from the original npyx (NeuroPyxels) library [[1]](#1) have been modi
 ## References
 <a id="1">[1]</a> 
 NeuroPyxels: loading, processing and plotting Neuropixels data in python"
-doi: 10.5281/zenodo.5509733 (https://github.com/m-beau/NeuroPyxels/tree/master)
+doi: 10.5281/zenodo.5509733 [Link](https://github.com/m-beau/NeuroPyxels/tree/master)
