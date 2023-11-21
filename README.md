@@ -1,6 +1,6 @@
 # Neuropixels
 Load, save, plot raw and Kilosort neuropixels data with Neuropyxels.
-Some files from the original npyx (NeuroPyxels) library [[1]](#1) have been modified to according to our data.
+Some files from the original npyx (NeuroPyxels) library [[1]](#1) have been modified to suit our data.
 Check the original library for additional details on post-processing like high-pass filtering, etc. These require cuda.
 
 ## Tutorial to load, plot, and get raw traces from Neuropixels recordings: 
