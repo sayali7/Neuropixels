@@ -13,6 +13,7 @@ Load_Neuropixels_data_with_Neuropyxels.ipynb
 
 ### Requirements
 Tested on Ubuntu 22.04
+Install npyx, refer to npyx [[1]] (#1) for additional installation instructions
 ```python
 pip install npyx
 ```
