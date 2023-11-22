@@ -13,6 +13,9 @@ Load_Neuropixels_data_with_Neuropyxels.ipynb
 
 ### Requirements
 Tested on Ubuntu 22.04
+```python
+pip install npyx
+```
 - python 3.10
 - joblib 1.3.1
 - numpy 1.24.4
