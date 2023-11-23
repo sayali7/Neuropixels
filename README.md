@@ -1,6 +1,6 @@
 # Neuropixels
-Load, save, and plot raw neuropixels data and Kilosort outputs with Neuropyxels.
-Some files from the official npyx (NeuroPyxels) library [[1]](#1) have been modified to suit our data.
+Load, save, and plot raw neuropixels data and Kilosort outputs with Neuropyxels (npyx) [[1]](#1).
+Some files from the official npyx library  have been modified to suit our data.
 Check the original library for additional details on post-processing like high-pass filtering, etc.
 
 ## Tutorial to load, plot, and get raw traces from Neuropixels recordings: 
